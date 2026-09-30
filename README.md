@@ -6,7 +6,7 @@ gaming laptop all day. I mostly know frontend and suck at backend very much.
 ### Things I know
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=haxe,git,python,github,bash" />
+  <img src="https://skillicons.dev/icons?i=haxe,git,python,github,bash,cpp" />
 </p>
 
 ### You might know me from
