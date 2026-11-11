@@ -13,7 +13,7 @@ gaming laptop all day. I mostly know frontend and suck at backend very much.
 
 - FunkinCrew/Funkin <a href="https://github.com/FunkinCrew/Funkin"><img src="https://github.com/FunkinCrew.png" width="24" alt="FunkinCrew"/></a> (I contribute to it lol)
 
-## Streaks 🤑🔥
+## Streaks 🔥
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kiryvajiravuth&hide_border=true" alt="GitHub Streak" />
